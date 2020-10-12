@@ -25,6 +25,6 @@ Simulation data:
 
 
 ## Note
-In simulation, rover crosses over obstacle (rock) which generates change in resultant forces on wheels. Time interval of simulation shorter
+In simulation, rover crosses over obstacle (rock) which generates change in resultant forces on wheels. Time interval of simulation is shorter due to simplification.
 Resultant forces in absolute values ​​are not exact, as uniformly distributed mass density is assumed, which is not case for real rover, but decent qualitative result match is achieved.
 For more results, please, contact me.
