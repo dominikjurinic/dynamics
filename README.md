@@ -26,4 +26,4 @@ Simulation data:
 
 ## Note
 Resultant forces in absolute values ​​are not exact, as uniformly distributed mass density is assumed, which is not case in real rover, but  decent qualitative result match is achieved.
-For more info, please, contact me.
+For more results, please, contact me.
